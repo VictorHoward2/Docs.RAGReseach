@@ -9,5 +9,6 @@ def embed_texts(texts, model="nomic-embed-text"):
             OLLAMA_URL,
             json={"model": model, "prompt": t}
         )
+        # print(res.json())
         embeddings.append(res.json()["embedding"])
     return embeddings

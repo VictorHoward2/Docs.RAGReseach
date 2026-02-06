@@ -14,8 +14,7 @@ Lưu ý rằng một số cuộc họp quan trọng có thể yêu cầu sự hi
 
 ## Nhân viên thử việc
 Nhân viên thử việc có thời gian thử việc là 2 tháng kể từ ngày bắt đầu làm việc.
-Nhân viên đang trong thời gian thử việc KHÔNG được phép làm việc từ xa,
-trừ khi có sự phê duyệt đặc biệt từ quản lý trực tiếp.
+Nhân viên đang trong thời gian thử việc KHÔNG được phép làm việc từ xa, trừ khi có sự phê duyệt đặc biệt từ quản lý trực tiếp. Nếu vi phạm sẽ bị đuổi việc.
 Nhân viên thử việc sẽ được đánh giá vào cuối thời gian thử việc để quyết định việc tiếp tục hợp đồng.
 Nhân viên thử việc cần tuân thủ đầy đủ các quy định và chính sách của công ty.
 
@@ -28,8 +27,7 @@ Nghỉ phép đột xuất do ốm đau cần có giấy xác nhận của bác 
 
 ## Bảo mật thông tin
 Nhân viên có trách nhiệm bảo mật toàn bộ thông tin nội bộ của công ty.
-Việc chia sẻ dữ liệu, tài liệu hoặc thông tin cho bên thứ ba khi chưa được phép
-được xem là vi phạm nghiêm trọng và có thể bị xử lý kỷ luật.
+Việc chia sẻ dữ liệu, tài liệu hoặc thông tin cho bên thứ ba khi chưa được phép được xem là vi phạm nghiêm trọng và có thể bị xử lý kỷ luật.
 Làm việc từ xa yêu cầu nhân viên sử dụng các biện pháp bảo mật thích hợp để bảo vệ dữ liệu công ty.
 
 ## Hành vi tại nơi làm việc

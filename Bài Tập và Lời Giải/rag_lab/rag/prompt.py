@@ -1,5 +1,5 @@
 def build_rag_prompt(question, contexts):
-    context_text = "\n\n".join(contexts)
+    context_text = "\n\n".join([f"{i+1}. {text}" for i, text in enumerate(contexts)])
     return f"""
 Bạn chỉ được phép trả lời dựa trên CONTEXT bên dưới.
 Nếu không có thông tin, hãy trả lời: "Không tìm thấy trong tài liệu".
